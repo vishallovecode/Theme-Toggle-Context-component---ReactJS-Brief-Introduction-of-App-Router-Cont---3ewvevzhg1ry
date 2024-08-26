@@ -6,6 +6,7 @@ import { Main } from './Main'
 function Home() {
   return (
     <div id='main'>
+
       <ThemeProvider>
       <Main/>
       <ThemeToggleButton/>
